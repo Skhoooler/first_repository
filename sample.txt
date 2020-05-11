@@ -1,7 +1,5 @@
 hey whats up
 I am currently editing this file
 gottem
-<<<<<<< HEAD
 This is a change
-=======
 
